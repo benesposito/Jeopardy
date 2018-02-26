@@ -1,0 +1,6 @@
+How to use Espo's Jeopardy Program:
+
+1. Open up the "Questions" file in your text editor of choice. At the end of your question, enter a backslash (\). This goes directly after the last character of the question. With no space after the backslash (\), start the next question. The first question is row one column one, the next one is row two colomn one, and etc.
+2. Open up the "Answers" file. The answers work the exact same way as the questions.
+3. Open up Jeopardy.jar. Click on "Category 1", and enter the category name. Press "Done". Do this for each category.
+4. When someone picks a question, click on that question. When they answer, click "Show Answer" on the bottom. Then select who got it right, if anyone did. Points will be awarded to whomever got it right. Use your own house-rules.
